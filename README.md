@@ -1,6 +1,6 @@
 # game_2048
 
-#Demo of the app
+# Demo of 2048 Game
 - [Click for demo](https://2048-game-dusky.vercel.app/)
 
 A new Flutter project.
